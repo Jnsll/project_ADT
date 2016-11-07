@@ -1,7 +1,9 @@
 # project_ADT
 extraction and classification of entities
 
+# Pré-requis
 
+- module nltk installé (import nltk; nltk.download())
 
 
 #Credits
