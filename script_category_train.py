@@ -18,9 +18,10 @@ def extract_entities_cat(dirname):
     		with open(file, 'r') as fichier:
         		for line in fichier:
             			m=p.match(line)
-            			if not m: break; 
+            			if not m: break
             			cat = m.group(1)
             			nom = m.group(2)
+						if cat == 'Bacteria': continue
             			if nom not in d_entities:
                 			d_entities[nom]=cat
             			if m.group(4) is not None and m.group(4) not in d_entities:
