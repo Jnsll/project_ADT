@@ -1,9 +1,18 @@
-# project_ADT
-extraction and classification of entities
+# Sujet 1 : Extraction et catégorisation d'entités
+Extraction and classification of entities
 
 # Prerequisite
 
 - nltk module must be installed (import nltk; nltk.download())
+- the compressed directory must be decompressed (unzip ADT_Sujet1_June_Meline.zip)
+
+# Usage
+
+```bash
+python3 script_fin.py path/to/directory/containing/dev/and/train/repositories
+
+```
+ Note : the path cannot end with an '/' !
 
 
 #Credits
