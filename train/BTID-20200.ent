@@ -1,0 +1,50 @@
+601	Bacteria	0-24 Shewanella baltica OS185
+602	Bacteria	25-49 Shewanella baltica OS185
+603	Bacteria	54-68 Shewanellaceae
+604	Environment	160-172 heavy metals
+605	Environment	176-193 radioactive waste
+606	Bacteria	257-262 OS185
+607	Bacteria	285-303 Shewanella baltica
+608	Environment	567-599 low organic carbon concentration
+609	Bacteria	635-640 OS185
+610	Environment	723-741 organic pollutants
+611	Environment	743-755 heavy metals
+612	Bacteria	797-802 OS185
+613	Water	836-872 deep low oxic and nitrate rich water
+614	Geographical	880-892 Gotland Deep
+615	Water	906-918 anoxic basin
+616	Geographical	926-936 Baltic Sea
+617	Bacteria	938-943 OS185
+618	Bacteria	996-1006 Shewanella
+619	Water	1025-1037 water column
+620	Geographical	1045-1063 central Baltic Sea
+621	Bacteria	1097-1115 Shewanella baltica
+622	Water	1150-1164 low oxic water
+623	Water	1176-1197 oxic-anoxic interface
+624	Bacteria	1303-1321 Shewanella baltica
+625	Bacteria	1331-1336 OS185
+626	Bacteria	1367-1376 clone "C"
+627	Geographical	1404-1412 ltic Sea
+628	Bacteria	1513-1520 Clone C
+629	Bacteria	1614-1624 S. baltica
+630	Bacteria	2064-2074 S. baltica
+631	Water	2090-2111 low oxic/anoxic water
+632	Geographical	2119-2137 central Baltic Sea
+633	Bacteria	2275-2293 Shewanella baltica
+634	Bacteria	2388-2398 S. baltica
+E1	Localization Bacteria:T3 Localization:T4
+E2	Localization Bacteria:T3 Localization:T5
+E3	Localization Bacteria:T6 Localization:T8
+E4	Localization Bacteria:T9 Localization:T10
+E5	Localization Bacteria:T9 Localization:T11
+E6	Localization Bacteria:T12 Localization:T13
+E7	Localization Bacteria:T12 Localization:T14
+E8	Localization Bacteria:T12 Localization:T15
+E9	Localization Bacteria:T12 Localization:T16
+E10	Localization Bacteria:T17 Localization:T19
+E11	Localization Bacteria:T17 Localization:T20
+E12	Localization Bacteria:T21 Localization:T22
+E13	Localization Bacteria:T21 Localization:T23
+E14	Localization Bacteria:T25 Localization:T27
+E15	Localization Bacteria:T30 Localization:T31
+E16	Localization Bacteria:T30 Localization:T32

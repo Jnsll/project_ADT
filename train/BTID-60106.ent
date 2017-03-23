@@ -1,0 +1,121 @@
+1858759354	Bacteria	0-18 Campylobacter coli
+723849769	Bacteria	48-66 Campylobacter coli
+248207328	Bacteria	68-75 C. coli
+1207319222	Bacteria	483-490 C. coli
+1988667298	Bacteria	533-553 Campylobacter jejuni
+95795578	Bacteria	555-564 C. jejuni
+1571027843	Bacteria	708-717 C. jejuni
+953517436	Bacteria	725-732 C. coli
+1244572938	Bacteria	1056-1063 C. coli
+1046647186	Bacteria	1311-1318 C. coli
+960702525	Bacteria	1485-1492 C. coli
+1745279529	Bacteria	1829-1836 C. coli
+433909530	Bacteria	2352-2359 C. coli
+2010489145	Bacteria	2418-2427 C. jejuni
+1783358117	Bacteria	2573-2579 C.coli
+470611240	Bacteria	2701-2710 C. jejuni
+380838779	Bacteria	2730-2737 C. coli
+1256090593	Bacteria	2757-2764 C. coli
+1350346541	Bacteria	3044-3051 C. coli
+667133091	Bacteria	3728-3735 C. coli
+493739450	Bacteria	4272-4279 C. coli
+402124142	Bacteria	4636-4643 C. coli
+369417485	Bacteria	5076-5085 C. jejuni
+424446918	Bacteria	5090-5096 C.coli
+1886159139	Bacteria	5293-5306 Campylobacter
+1670535806	Bacteria	5373-5382 C. jejuni
+494090564	Bacteria	5387-5394 C. coli
+2008329846	HostPart	310-337 intestinal tract of animals
+1999241823	Host	330-337 animals
+1728178199	HostPart	368-389 intestinal epithelium
+774664918	HostPart	429-445 epithelial layer
+1747408712	HostPart	467-478 bloodstream
+1859349859	Host	639-646 animals
+2058532716	Host	651-657 humans
+1797804642	Host	664-669 human
+607704804	Host	925-955 patients with severe infection
+262415696	Host	1089-1093 pigs
+1636675381	Host	1095-1100 birds
+485094044	Water	1106-1119 surface water
+1127673496	HostPart	1733-1742 intestine
+1265262497	HostPart	1802-1818 intestinal tract
+883714485	Host	2605-2609 pigs
+592446743	Host	2611-2616 birds
+1518222109	Water	2621-2648 environmental surface water
+358292309	Host	2670-2675 birds
+274691175	Host	2817-2822 birds
+1792220822	Host	2824-2863 Birds that are feeding on invertebrates
+1249722532	Host	2865-2886 opportunistic feeders
+1696527664	Host	2892-2921 birds that have a larger mass
+1400067629	Geographical	2981-2987 Europe
+958320424	Geographical	2996-3002 Africa
+364013668	Geographical	3008-3019 Middle East
+1944291420	Geographical	3024-3028 Asia
+1594723188	Host	3069-3076 animals
+1916706156	Host	3081-3087 humans
+1825658892	Host	3089-3095 People
+602649508	Food	3127-3134 poultry
+1197401704	Food	3171-3179 raw food
+661183091	Food	3190-3198 raw milk
+1423820859	Food	3213-3225 bottle water
+746898692	HostPart	3498-3525 intestinal tract of animals
+1084399729	Host	3518-3525 animals
+1960016861	Host	3530-3536 humans
+1751721494	HostPart	3600-3621 intestinal epithelium
+1329832935	HostPart	3661-3677 epithelial layer
+1639824216	HostPart	3698-3709 bloodstream
+1867956361	Host	3714-3722 Patients
+679123834	Host	4464-4468 pigs
+158694233	Host	4764-4772 ABF pigs
+2146768104	Geographical	4780-4783 USA
+858770681	Food	5181-5193 chicken meat
+121244080	Geographical	5310-5312 US
+1934755204	Host	5310-5325 US dairy cattle
+233330754	HostPart	5327-5332 Feces
+284843056	Host	5351-5355 cows
+616193029	Bacteria	119-140 epsilonproteobacteria
+1190092569	HostPart	164-237 S-shaped curved, somewhat rod-shaped cell, about 0.2-0.5 micrometers long
+223119025	HostPart	257-272 polar flagellum
+455005513	HostPart	598-607 intestine
+88390024	Bacteria	1256-1262 C.coli
+1659933291	Bacteria	1267-1275 C.jejuni
+538763660	Environment	1962-1975 complex media
+1209777868	Environment	2008-2045 extra growth medium such as glutamate
+361457680	Environment	2008-2035 extra growth medium such as	2047-2056 glutamine
+1935474044	Environment	2008-2035 extra growth medium such as	2058-2077 alpha-ketoglutarate
+1577456399	Environment	2008-2035 extra growth medium such as	2082-2089 formate
+1624075778	Bacteria	2099-2106 C. coli
+1324447476	HostPart	2520-2529 intestine
+1320727977	Geographical	2537-2550 United States
+1084134047	HostPart	3498-3517 intestinal tract of	3530-3536 humans
+1789666781	HostPart	3790-3802 bloody stool
+1273628385	Geographical	4083-4131 Department of Population Health and Pathobiology
+1902757046	Geographical	4133-4163 College of Veterinary Medicine
+1458684645	Geographical	4165-4196 North Carolina State University
+439514363	Environment	4283-4334 antimicrobial-free (ABF) production systems at farm
+1721636908	Environment	4283-4329 antimicrobial-free (ABF) production systems at	4339-4354 slaughter plant
+356853078	Environment	4356-4367 ABF systems
+1855339522	Food	4390-4397 poultry
+1228791814	Geographical	4415-4421 Europe
+2101268346	Geographical	4438-4440 US
+648516307	Environment	4451-4462 ABF systems
+1134063224	Host	4519-4525 animal
+1283238643	Environment	4565-4569 farm
+213606080	Environment	4651-4662 ABF systems
+1632212423	Bacteria	5425-5432 C. coli
+638086583	Bacteria	5452-5461 C. jejuni
+1935351010	Bacteria	5640-5649 C. jejuni
+1657107608	Bacteria	5706-5713 C. coli
+292149713	Bacteria	5802-5820 Campylobacter coli
+44133983	Bacteria	346-354 bacteria
+877994066	Bacteria	514-522 bacteria
+1086128725	HostPart	1281-1285 Cell
+954481575	Bacteria	1348-1356 bacteria
+268987935	Bacteria	2399-2407 bacteria
+427146610	Bacteria	3154-3162 bacteria
+15242349	Bacteria	3257-3265 bacteria
+627605650	Bacteria	3314-3322 bacteria
+1875969133	Bacteria	3577-3585 bacteria
+58313077	HostPart	3411-3415 cell
+815342107	HostPart	3434-3438 cell
+361640842	HostPart	3763-3772 abdominal

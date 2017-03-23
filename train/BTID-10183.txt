@@ -1,0 +1,9 @@
+Clavibacter michiganensis subsp. michiganensis NCPPB 382
+Description
+Clavibacter michiganensis . Gram-positive phytopathogens which were formerly named Corynebacterium. This genus is represented by a single species, C. michiganensis. This species is subdivided into five subspecies: michiganensis, sepedonicus, nebraskensis, tesselarius and insidiosus each of which infects specific hosts: tomato, potato, corn, wheat and alfalfa, respectively. Members of the Clavibacter genus are known to produce antimicrobial compounds.
+Description
+Clavibacter michiganensis subsp. michiganensis. Phytopathogen that causes bacterial wilt and canker of tomato (Lycopersicon esculentum). This is considered to be the most important bacterial disease of tomato causing substantial economic losses worldwide. Bacteria enter the plant by wounds on root or stem and then find their way into the xylem allowing a massive systemic colonization. The first stage of the disease is characterized by unilateral wilting of leaves. Wilting then spreads to all leaves, canker lesions develop on the stem and the plant dies. If infection occurs at a late stage of plant development, plants can survive and yield fruit that may have spots, so called birds eyes. Often the seeds will be infected and this has been the major source for outbreaks of Clavibacter michiganensis subsp. michiganensis infections in agriculture.
+Description
+Clavibacter michiganensis subsp. Michiganensis NCPPB 382. A wild type strain that harbors two plasmids, pCM1 and pCM2. The presence of both plasmids is not required to colonize tomato plants, but is necessary to cause disease.
+Properties
+

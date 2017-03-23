@@ -1,0 +1,16 @@
+201	Bacteria	0-47 Candidatus Blochmannia pennsylvanicus str. BPEN
+202	Bacteria	60-107 Candidatus Blochmannia pennsylvanicus str. BPEN
+203	Host	136-140 ants
+204	Host	154-164 Camponotus
+205	Bacteria	171-178 microbe
+206	HostPart	192-202 host cells
+207	HostPart	204-217 bacteriocytes
+208	Host	222-225 ant
+209	HostPart	226-233 ovaries
+E1	Localization Bacteria:T2 Localization:T3
+E2	Localization Bacteria:T2 Localization:T4
+E3	Localization Bacteria:T2 Localization:T6
+E4	Localization Bacteria:T2 Localization:T7
+E5	Localization Bacteria:T2 Localization:T8
+E6	Localization Bacteria:T2 Localization:T9
+E7	PartOf Organ:T9 Host:T8

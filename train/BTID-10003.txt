@@ -1,0 +1,7 @@
+Acidiphilium cryptum JF-5
+Description
+Acidiphilium cryptum. Acidiphilium cryptum was first isolated from a supposedly pure culture of Thiobacillus ferrooxidans. This organism, a heterotrophic acidophile, has been isolated from acid mine drainage, hydrothermal vent water, and other acidic mineral environments. Acidiphilium species contain bacteriochlorophyll-a, and the genes for the L and M proteins of the photosynthetic reaction center complex have been amplified, indicating that members of this genus are capable of photosynthesis.
+Description
+Acidiphilium cryptum strain JF-5. Acidiphilium cryptum strain JF-5 was isolated under iron-reducing conditions from coal mine lake sediment and is able to grow by coupling the reduction of iron to the oxidation of glucose. This organism will be used for comparative genomics.
+Properties
+

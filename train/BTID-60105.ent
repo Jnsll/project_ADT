@@ -1,0 +1,91 @@
+1050271116	Bacteria	0-20 Campylobacter Jejuni
+1738551919	Bacteria	50-70 Campylobacter jejuni
+1179601551	Bacteria	565-585 Campylobacter jejuni
+2141722200	Bacteria	794-814 Campylobacter jejuni
+1951608033	Bacteria	1122-1142 Campylobacter jejuni
+10986353	Bacteria	1854-1867 Campylobacter
+2111524876	Bacteria	2049-2062 Campylobacter
+1231324257	Bacteria	2245-2258 Campylobacter
+1714364907	Bacteria	2318-2331 Campylobacter
+542900150	Bacteria	2988-3001 Campylobacter
+2012288594	Bacteria	3181-3201 Campylobacter jejuni
+1961926402	Bacteria	3631-3651 Campylobacter jejuni
+1633122376	Bacteria	3872-3892 Campylobacter jejuni
+899281125	Bacteria	4030-4050 Campylobacter jejuni
+227960289	Bacteria	4169-4189 Campylobacter jejuni
+217750975	Bacteria	4316-4336 Campylobacter jejuni
+428502337	Bacteria	4604-4624 Campylobacter jejuni
+1326109568	Host	159-165 animal
+1338220810	Host	187-193 wombat
+880918639	Host	195-203 kangaroo
+847303255	Host	208-212 bird
+661743528	Food	613-617 food
+105667283	Geographical	639-652 United States
+2128532959	Food	740-744 food
+1470850187	Host	863-883 infected individuals
+894832292	Host	895-901 animal
+618351703	Host	944-950 humans
+963704488	Host	955-962 animals
+659664142	Host	1583-1599 Children under 5
+1664648780	Host	1604-1616 young adults
+335092344	Food	1730-1734 food
+1194903174	HostPart	1893-1903 intestines
+1618062321	Host	1912-1919 animals
+1188007086	Host	1929-1935 humans
+1679628243	HostPart	1960-1982 intestinal environment
+839340286	HostPart	2099-2130 jejunum in the small intestines
+2119593306	Food	2204-2208 food
+1545957506	Geographical	2230-2243 United States
+503158289	Food	2348-2353 water
+1938244984	Food	2355-2359 milk
+904004745	Food	2363-2379 undercooked meat
+160946690	Food	2392-2399 chicken
+1349107257	Host	2581-2589 patients
+1313323373	Host	3083-3115 patients who also have cirrhosis
+1189006145	Food	3309-3313 food
+1290943680	Geographical	3335-3348 United States
+863144119	Host	3794-3828 patients treated with erythromycin
+611172548	Host	4095-4102 patient
+562730635	Food	4359-4363 food
+295801057	Food	4432-4446 drinking water
+103722194	Water	4628-4633 water
+1649676841	Environment	4638-4646 biofilms
+2104783917	Water	4763-4768 water
+1752659635	Environment	4773-4781 biofilms
+2064783193	Bacteria	220-240 Campylobacter jejuni
+1622872878	Bacteria	914-922 bacteria
+1852786293	Bacteria	1161-1170 bacterium
+1266344951	Host	1196-1206 eukaryotic
+1896649687	Bacteria	1274-1293 Camylobacter jejuni
+1891516988	Bacteria	1361-1369 bacteria
+1525590775	HostPart	1490-1506 fecal leukocytes
+1796893892	HostPart	1570-1576 muscle
+333115083	Bacteria	1689-1702 Campylobacter
+175332252	Bacteria	1868-1876 bacteria
+461595680	HostPart	2089-2094 ileum	2107-2130 in the small intestines
+1327660796	HostPart	2150-2166 large intestines
+1639906042	Bacteria	2433-2441 bacteria
+1095722296	Bacteria	2648-2661 Campylobacter
+1132355847	Bacteria	3359-3379 Campylobacter jejuni
+504640815	Bacteria	3543-3563 Campylobacter jejuni
+1311767100	Bacteria	4468-4488 Campylobacter jejuni
+802529598	Water	4516-4521 water
+1917650426	Bacteria	4744-4752 bacteria
+516135606	Host	3083-3105 patients who also have	3117-3129 malnutrition
+1004679809	Host	3083-3105 patients who also have	3135-3143 lymphoma
+2137117149	Environment	991-1018 antibiotic-containing media
+1863927168	HostPart	1380-1402 flagella at both poles
+1679953787	Environment	4657-4681 Propella biofilm reactor
+2015791000	Environment	4525-4533 biofilms
+697321928	Bacteria	90-98 bacteria
+1071382217	HostPart	2692-2701 abdominal
+70541024	HostPart	2731-2737 bloody
+172017224	HostPart	2804-2810 muscle
+580494906	Environment	159-171 animal feces
+359676821	Environment	187-193 wombat	213-218 feces
+2069347889	Environment	208-218 bird feces
+1032307258	Environment	844-883 diarrhea stools of infected individuals
+467701093	Environment	3902-3908 stools
+862122031	Environment	300-406 environment that contains a reduced concentration of oxygen (~3-5% of oxygen and ~2-10% of carbon dioxide)
+612808708	Environment	895-907 animal feces
+144384344	Environment	195-203 kangaroo	213-218 feces

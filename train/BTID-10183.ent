@@ -1,0 +1,59 @@
+301	Bacteria	0-56 Clavibacter michiganensis subsp. michiganensis NCPPB 382
+302	Bacteria	69-94 Clavibacter michiganensis
+303	Bacteria	152-167 Corynebacterium
+304	Bacteria	216-232 C. michiganensis
+305	Bacteria	283-296 michiganensis
+306	Bacteria	298-309 sepedonicus
+307	Bacteria	311-323 nebraskensis
+308	Bacteria	325-336 tesselarius
+309	Bacteria	341-351 insidiosus
+310	Host	390-396 tomato
+311	Host	398-404 potato
+312	Host	406-410 corn
+313	Host	412-417 wheat
+314	Host	422-429 alfalfa
+315	Bacteria	460-471 Clavibacter
+316	Bacteria	536-582 Clavibacter michiganensis subsp. michiganensis
+317	Host	639-645 tomato
+318	Host	647-670 Lycopersicon esculentum
+319	Host	738-744 tomato
+320	Geographical	781-790 worldwide
+321	Bacteria	792-800 Bacteria
+322	Host	811-816 plant
+323	HostPart	830-834 root
+324	HostPart	838-842 stem
+325	HostPart	876-881 xylem
+326	HostPart	997-1003 leaves
+327	HostPart	1033-1039 leaves
+328	HostPart	1071-1075 stem
+329	Host	1084-1089 plant
+330	Host	1135-1140 plant
+331	Host	1154-1160 plants
+332	HostPart	1183-1188 fruit
+333	Host	1220-1224 bird
+334	HostPart	1243-1248 seeds
+335	Bacteria	1318-1364 Clavibacter michiganensis subsp. michiganensis
+336	Bacteria	1404-1460 Clavibacter michiganensis subsp. Michiganensis NCPPB 382
+337	Host	1581-1587 tomato
+338	Host	1588-1594 plants
+E1	Localization Bacteria:T5 Localization:T10
+E2	Localization Bacteria:T6 Localization:T11
+E3	Localization Bacteria:T7 Localization:T12
+E4	Localization Bacteria:T8 Localization:T13
+E5	Localization Bacteria:T9 Localization:T14
+E6	Localization Bacteria:T16 Localization:T17
+E7	Localization Bacteria:T16 Localization:T18
+E8	Localization Bacteria:T16 Localization:T19
+E9	Localization Bacteria:T16 Localization:T20
+E10	Localization Bacteria:T16 Localization:T22
+E11	Localization Bacteria:T16 Localization:T23
+E12	PartOf HostPart:T23 Host:T22
+E13	Localization Bacteria:T16 Localization:T24
+E14	PartOf HostPart:T24 Host:T22
+E15	Localization Bacteria:T16 Localization:T25
+E16	PartOf HostPart:T25 Host:T22
+E17	PartOf HostPart:T26 Host:T22
+E18	PartOf HostPart:T27 Host:T22
+E19	PartOf HostPart:T28 Host:T22
+E20	PartOf HostPart:T32 Host:T31
+E21	Localization Bacteria:T35 Localization:T34

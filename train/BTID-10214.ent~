@@ -1,0 +1,54 @@
+401	Bacterium	0-27 Coxiella burnetii CbuK_Q154
+402	Bacterium	40-57 Coxiella burnetii
+403	Host	133-141 reptiles
+404	Host	143-148 birds
+405	Host	154-161 mammals
+406	Host	244-260 abattoir workers
+407	Geographical	264-273 Australia
+408	Host	303-317 insect vectors
+409	Host	326-331 ticks
+410	Host	361-388 wild or domesticated animal
+411	Host	424-444 domesticated animals
+412	Host	453-458 sheep
+413	Host	462-468 cattle
+414	Bacterium	567-578 C. burnetii
+415	Host	629-640 guinea pigs
+416	Bacterium	716-733 Coxiella burnetii
+417	Bacterium	966-975 bacterium
+418	HostPart	991-1004 intracellular
+419	HostPart	1038-1047 host cell
+420	HostPart	1051-1061 macrophage
+421	HostPart	1111-1124 phagolysozome
+422	Environment	1261-1279 acidic environment
+423	HostPart	1287-1300 phagolysozome
+424	Environment	1441-1462 oxidative environment
+425	Bacterium	1582-1592 Legionella
+426	HostPart	1621-1634 intracellular
+427	HostPart	1747-1756 host cell
+428	HostPart	1870-1883 intracellular
+429	Bacterium	1967-1991 Coxiella burnetii K Q154
+430	Bacterium	1993-2017 Coxiella burnetii K Q154
+431	Host	2038-2045 patient
+E1	Localization Bacterium:T2 Localization:T3
+E2	Localization Bacterium:T2 Localization:T4
+E3	Localization Bacterium:T2 Localization:T5
+E4	Localization Bacterium:T2 Localization:T6
+E5	Localization Bacterium:T2 Localization:T7
+E6	Localization Bacterium:T2 Localization:T8
+E7	Localization Bacterium:T2 Localization:T9
+E8	Localization Bacterium:T2 Localization:T10
+E9	Localization Bacterium:T2 Localization:T11
+E10	Localization Bacterium:T2 Localization:T12
+E11	Localization Bacterium:T2 Localization:T13
+E12	Localization Bacterium:T14 Localization:T15
+E13	Localization Bacterium:T16 Localization:T18
+E14	Localization Bacterium:T16 Localization:T19
+E15	Localization Bacterium:T16 Localization:T20
+E16	Localization Bacterium:T16 Localization:T21
+E17	Localization Bacterium:T16 Localization:T22
+E18	Localization Bacterium:T16 Localization:T23
+E19	Localization Bacterium:T16 Localization:T24
+E20	Localization Bacterium:T16 Localization:T26
+E21	Localization Bacterium:T16 Localization:T27
+E22	Localization Bacterium:T16 Localization:T28
+E23	Localization Bacterium:T30 Localization:T31

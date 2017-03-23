@@ -3,18 +3,25 @@ Extraction and classification of entities
 
 # Prerequisite
 
-- nltk module must be installed (import nltk; nltk.download())
-- the compressed directory must be decompressed (unzip ADT_Sujet1_June_Meline.zip)
+- the nltk module must be installed (import nltk; nltk.download())
+- the zip directory must be unzipped (unzip ADT_Sujet1_June_Meline.zip) (Already done if you can see this file...)
 
 # Usage
 
 ```bash
-python3 script_fin.py path/to/directory/containing/dev/and/train/repositories
+python3 ../path/to/scripts/script_fin.py path/to/directory/containing/dev/and/train/repositories/and/country_names/file
 
 ```
- Note : the path cannot end with an '/' !
 
+Notes : - the path cannot end with an '/' !
+
+	 - The new ent files will be created in the dev directory with the .ent2 extension. 
 
 #Credits
 
 Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
+
+#Authors 
+
+June BENVEGNU-SALLOU
+Méline WERY

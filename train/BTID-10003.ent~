@@ -1,0 +1,19 @@
+101	Bacterium	0-25 Acidiphilium cryptum JF-5
+102	Bacterium	38-58 Acidiphilium cryptum
+103	Bacterium	60-80 Acidiphilium cryptum
+104	Bacterium	134-159 Thiobacillus ferrooxidans
+105	Environment	192-202 acidophile
+106	Water	227-245 acid mine drainage
+107	Water	247-270 hydrothermal vent water
+108	Environment	282-309 acidic mineral environments
+109	Bacterium	311-323 Acidiphilium
+110	Bacterium	550-582 Acidiphilium cryptum strain JF-5
+111	Bacterium	584-616 Acidiphilium cryptum strain JF-5
+112	Environment	636-660 iron-reducing conditions
+113	Soil	666-689 coal mine lake sediment
+E1	Localization Bacterium:T3 Localization:T5
+E2	Localization Bacterium:T3 Localization:T6
+E3	Localization Bacterium:T3 Localization:T7
+E4	Localization Bacterium:T3 Localization:T8
+E5	Localization Bacterium:T11 Localization:T12
+E6	Localization Bacterium:T11 Localization:T13

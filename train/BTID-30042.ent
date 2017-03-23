@@ -1,0 +1,122 @@
+382901721	Bacteria	60-71 Mycoplasmas
+1568218435	Bacteria	86-107 Mycoplasma agalactiae
+980437414	Bacteria	1385-1395 Mycoplasma
+569593667	Bacteria	1893-1905 Spiroplasmas
+1826146590	Bacteria	1910-1922 Phytoplasmas
+209455206	Bacteria	3625-3646 Mycoplasma agalactiae
+587949809	Bacteria	3647-3668 Mycoplasma agalactiae
+1100180016	Bacteria	3955-3963 M. bovis
+891328242	Bacteria	5530-5543 M. capricolum
+1855325469	Bacteria	5545-5575 M. mycoides subsp. mycoides SC
+992603043	Bacteria	6629-6659 M. mycoides subsp. mycoides SC
+1026373805	Host	18-23 sheep
+1675887931	Host	28-33 goats
+252942265	Host	131-146 small ruminants
+1330510442	HostPart	1794-1807 intracellular
+141782483	Host	1842-1849 animals
+1378827258	Host	1861-1867 humans
+453690429	Host	1872-1879 insects
+1608093353	Host	1885-1891 plants
+1143286376	HostPart	2015-2019 cell
+1677931723	HostPart	2502-2515 intracellular
+243216057	Host	2630-2636 humans
+1070889758	Host	2641-2648 animals
+383717199	Host	2650-2655 Human
+241571652	Host	2769-2781 farm animals
+1350662334	Host	3832-3837 sheep	3848-3857 in Europe
+1679698748	Host	3842-3857 goats in Europe
+2024317821	Geographical	3851-3857 Europe
+126198126	Host	3979-3985 cattle
+1445544093	Host	4070-4074 calf
+777072540	Host	5519-5528 ruminants
+1410122373	Host	6612-6627 small ruminants
+297194719	Bacteria	76-85 bacterium
+2052162958	Bacteria	185-196 mycoplasmas
+2115464286	Bacteria	212-222 Mollicutes
+868995070	Bacteria	238-246 bacteria
+163858243	HostPart	291-300 cell wall
+891454647	Bacteria	306-316 Mollicutes
+1832330657	Bacteria	374-417 Gram-positive bacteria with low G+C content
+1065854219	Bacteria	422-432 Firmicutes
+1650759106	HostPart	464-479 thick cell wall
+967058949	HostPart	498-507 cell wall
+1203515347	Bacteria	546-556 Mollicutes
+333965936	Bacteria	576-586 Firmicutes
+1590716741	Bacteria	607-617 Clostridia
+1152344484	Bacteria	626-633 Bacilli
+241568957	Bacteria	777-788 mycoplasmas
+1305367469	Environment	823-841 sequencing centers
+618113731	Bacteria	969-993 Mycoplasma gallisepticum
+1259076378	Bacteria	995-1008 M. genitalium
+2140311155	Bacteria	1010-1026 M. hyopneumoniae
+1858494835	Bacteria	1028-1037 M. mobile
+573046230	Bacteria	1039-1050 M. mycoides
+1871314462	Bacteria	1052-1064 M. penetrans
+1284152519	Bacteria	1067-1080 M. pneumoniae
+540734483	Bacteria	1082-1093 M. pulmonis
+2121145324	Bacteria	1095-1112 Mesoplasma florum
+1860920268	Bacteria	1114-1143 Ureaplasma urealyticum/parvum
+535109368	Bacteria	1145-1164 Phytoplasma asteris
+2069117987	Bacteria	1272-1282 Mollicutes
+1463311638	Bacteria	1311-1320 U. parvum
+895974422	Bacteria	1342-1350 bacteria
+486777790	Bacteria	1680-1688 bacteria
+1509105107	Bacteria	2083-2094 Mycoplasmas
+1747662279	Bacteria	2231-2242 mycoplasmas
+1826083134	Bacteria	2293-2304 mycoplasmas
+1290433861	Bacteria	2333-2344 M. pulmonis
+884550774	Bacteria	2434-2451 Bacillus subtilis
+1763054084	HostPart	2469-2478 cell wall
+670628482	Bacteria	2536-2547 mycoplasmas
+1258717518	HostPart	2707-2718 respiratory	2734-2740 tracts
+403918429	HostPart	2723-2740 urogenital tracts
+461228036	Bacteria	2868-2876 bacteria
+1591119029	Bacteria	3066-3077 mycoplasmas
+1471147959	Bacteria	3189-3199 mycoplasma
+1604519002	Geographical	3523-3527 CBiB
+1198711235	Geographical	3529-3550 Bordeaux 2 University
+1195634138	Bacteria	3597-3608 mycoplasmas
+1018472387	Environment	3913-3926 milk industry
+2020741719	Food	3913-3917 milk
+152193928	Bacteria	4330-4338 M. bovis
+270324319	Bacteria	4384-4397 M. agalactiae
+1412916028	Bacteria	4578-4589 mycoplasmas
+5514070	Bacteria	4604-4614 M. hominis
+333177669	Bacteria	4627-4638 M. pulmonis
+1227215154	Bacteria	4640-4656 M. hyopneumoniae
+1372147490	Bacteria	4661-4670 M. mobile
+2003462944	Bacteria	4728-4736 bacteria
+1805598495	Bacteria	4744-4757 M. pneumoniae
+602489708	Bacteria	4773-4786 M. genitalium
+659126751	Bacteria	4788-4800 M. penetrans
+1222652831	Bacteria	4805-4814 U. parvum
+2002596121	Bacteria	4848-4861 M. agalactiae
+121806216	Bacteria	5165-5178 M. agalactiae
+645156721	Bacteria	5253-5263 mycoplasma
+504076144	Bacteria	5314-5322 M. bovis
+184764793	Geographical	5377-5381 TIGR
+80522389	Bacteria	5432-5442 M. hominis
+425094313	Bacteria	5494-5505 mycoplasmas
+2029508669	Bacteria	5583-5594 Spiroplasma
+1583464340	Geographical	5720-5728 ENVT lab
+1667808756	Bacteria	5822-5835 M. agalactiae
+1905201448	Bacteria	6077-6090 M. fermentans
+1739559766	Bacteria	6152-6165 M. agalactiae
+938616904	Bacteria	6281-6294 M. agalactiae
+2066918313	Bacteria	6463-6476 M. agalactiae
+1000612719	Bacteria	6546-6554 M. bovis
+353528576	Bacteria	6559-6569 M pulmonis
+1815009230	Environment	6919-6945 molecular diagnostic tools
+2002406622	Host	7055-7102 expert annotators from the collaborating groups
+1231863817	Geographical	7141-7171 Bordeaux Bioinformatics Center
+45331592	Geographical	7173-7177 CBiB
+1678855706	Geographical	7280-7311 Transcriptome-Biochips Platform
+740212809	Geographical	7319-7336 Toulouse Genopole
+80177571	Bacteria	355-370 bacterial taxon
+1072189128	Bacteria	1608-1619 mycoplasmal
+747392319	Bacteria	2414-2423 firmicute
+790854130	Bacteria	2424-2433 bacterium
+1109071627	HostPart	3995-4006 respiratory
+8779029	HostPart	4011-4018 mammary
+1520252407	Environment	2769-2773 farm
+121772443	HostPart	5018-5025 surface

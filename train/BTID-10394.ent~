@@ -1,0 +1,52 @@
+501	Bacterium	0-29 Mycobacterium bovis AF2122/97
+502	Bacterium	42-55 Mycobacterium
+503	Environment	105-114 acid-fast
+504	Environment	127-134 aerobic
+505	Bacterium	135-143 bacteria
+506	Bacterium	181-197 Mycobacteriaceae
+507	Bacterium	215-230 Actinomycetales
+508	Bacterium	259-274 Actinomycetales
+509	Bacterium	284-292 Nocardia
+510	Bacterium	297-312 Corynebacterium
+511	Bacterium	314-326 mycobacteria
+512	Bacterium	465-484 Mycobacterium bovis
+513	Host	535-541 bovine
+514	Host	593-599 humans
+515	Food	628-632 milk
+516	Bacterium	679-698 Mycobacterium bovis
+517	Host	804-811 animals
+518	Host	816-822 humans
+519	Food	842-846 milk
+520	Host	897-903 bovine
+521	Host	920-926 humans
+522	Food	967-971 milk
+523	Food	976-990 dairy products
+524	Geographical	1013-1037 underdeveloped countries
+525	Host	1094-1098 cows
+526	Bacterium	1130-1156 Mycobacterium tuberculosis
+527	Host	1160-1166 humans
+528	HostPart	1173-1182 pulmonary
+529	HostPart	1260-1272 other organs
+530	Host	1307-1311 cows
+531	Bacterium	1320-1333 mycobacterial
+532	Bacterium	1375-1383 bacteria
+533	Food	1393-1397 milk
+E1	Localization Bacterium:T2 Localization:T3
+E2	Localization Bacterium:T2 Localization:T4
+E3	Localization Bacterium:T12 Localization:T14
+E4	Localization Bacterium:T12 Localization:T15
+E5	Localization Bacterium:T16 Localization:T17
+E6	Localization Bacterium:T16 Localization:T18
+E7	Localization Bacterium:T2 Localization:T19
+E8	Localization Bacterium:T16 Localization:T21
+E9	Localization Bacterium:T16 Localization:T22
+E10	Localization Bacterium:T16 Localization:T23
+E11	Localization Bacterium:T16 Localization:T24
+E12	Localization Bacterium:T16 Localization:T25
+E13	Localization Bacterium:T26 Localization:T27
+E14	Localization Bacterium:T16 Localization:T28
+E15	PartOf HostPart:T28 Host:T25
+E16	Localization Bacterium:T16 Localization:T29
+E17	PartOf HostPart:T29 Host:T25
+E18	Localization Bacterium:T16 Localization:T30
+E19	Localization Bacterium:T16 Localization:T33

@@ -1,0 +1,7 @@
+Mycobacterium bovis AF2122/97
+Description
+Mycobacterium. This genus comprises a number of Gram-positive, acid-fast, rod-shaped aerobic bacteria and is the only member of the family Mycobacteriaceae within the order Actinomycetales. Like other closely related Actinomycetales, such as Nocardia and Corynebacterium, mycobacteria have unusually high genomic DNA GC content and are capable of producing mycolic acids as major components of their cell wall.
+Description
+Mycobacterium bovis. This bacterium is the causative agent of classic bovine tuberculosis, but it can also cause the disease in humans, especially if contaminated milk is consumed without prior pasteurization. The Mycobacterium bovis complex is a diverse group of species, serovars and morphotypes that cause tuberculosis-like diseases in animals and humans. Pasteurization of milk is a major preventitive factor in transmission of bovine tuberculosis to humans. However, spreading the disease through milk and dairy products is still a concern in underdeveloped countries where pasteurization is not practiced. The pathology in cows is similar to the pathology of Mycobacterium tuberculosis in humans, with pulmonary TB leading to chronic debilitation, coughing, and further systemic spread to other organs. In addition, 1 to 2% of infected cows develop mycobacterial mastitis that results in shedding of the bacteria into the milk.
+Properties
+
